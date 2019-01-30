@@ -1,2 +1,3 @@
 # random_key_generetor
-Up to 20 digits from 8 digits
+
+8 digits to 20 digits password creation program.
